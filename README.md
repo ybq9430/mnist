@@ -71,6 +71,15 @@ epochs=5 일때의 accuracy의 값을 비교해서 왜 다른지를 설명하는
 
 
 解释（Explanation）
+epochs=2 → test_accuracy: 0.22579999268054962
+
+epochs=5 → test_accuracy: 0.9399999976158142
+
+epochs=2 의 경우 가중치가 충분히 학습되지 않아 정확도가 낮다.
+
+epochs=5 는 데이터셋을 더 많이 반복 학습하며 손실이 감소하고 정확도 증가.
+
+epoch 증가 → 성능 향상(단, 너무 크면 과적합 위험).
 
 epochs=2：权重尚未充分学习 → 准确率较低
 
