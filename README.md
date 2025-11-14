@@ -3,7 +3,7 @@ train_image[6000] 이미지 모습을 출력해서, 화면 캡쳐 후 코드와 
 作业 1. 打印出 train_image[6000] 图像，截屏，并将其与代码一起上传到 GitHub。
 
 
-<img width="353" height="374" alt="task1" src="https://github.com/user-attachments/assets/1ada1824-c76e-46dd-85c5-f37cbfe458ab" />
+<img width="702" height="662" alt="image" src="https://github.com/user-attachments/assets/836a402a-45ef-4ce2-a290-21e004d6ea13" />
 
 
 과제2.
@@ -33,7 +33,8 @@ ax4
 ，截取屏幕截图，并将其与代码一起上传到 GitHub。
 
 
-<img width="692" height="188" alt="task2" src="https://github.com/user-attachments/assets/8198dd14-7dbd-4da7-ac60-96c9aff7ae4d" />
+<img width="829" height="715" alt="image" src="https://github.com/user-attachments/assets/a383ddbe-29b0-46cc-bac7-36adebb00d8f" />
+
 
 과제3.
 model 만들 때, hidden layer의 노드 갯수 256을 128로 한 뒤,
@@ -41,7 +42,8 @@ model.summary() 실행 모습을 화면 캡쳐 후 코드와 함께 github 에 �
 
 作业 3. 创建模型时，将隐藏层中的节点数从 256 更改为 128。然后，截取 model.summary() 执行的屏幕截图，并将其与代码一起上传到 GitHub。
 
-<img width="600" height="224" alt="task3" src="https://github.com/user-attachments/assets/591c4f1e-77b5-4f0b-93d5-5173b46ba489" />
+<img width="685" height="470" alt="image" src="https://github.com/user-attachments/assets/793a69eb-6329-4358-bb61-1eb0926054e8" />
+
 
 
 과제4.
