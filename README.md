@@ -1,11 +1,11 @@
-✅ 과제 1 / 作业 1
+과제 1 / 作业 1
 과제 1.	作业 1.
 train_image[6000] 이미지를 출력해서, 화면 캡쳐 후 코드와 함께 github 에 올릴 것.	打印出 train_image[6000] 图像，截屏，并将其与代码一起上传到 GitHub。
 
 <img width="353" height="374" alt="task1" src="https://github.com/user-attachments/assets/1ada1824-c76e-46dd-85c5-f37cbfe458ab" />
 
 
-✅ 과제 2 / 作业 2
+과제 2 / 作业 2
 과제 2.	作业 2.
 train_image[1000], 2000, 3000, 4000 이미지를 ax1~ax4 에 보이게 하고, 화면 캡쳐 후 github 에 올릴 것.	将 train_image[1000]、[2000]、[3000]、[4000] 显示在 ax1~ax4，然后截图和代码一起上传至 GitHub。
 
